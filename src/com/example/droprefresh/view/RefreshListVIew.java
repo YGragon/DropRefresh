@@ -18,9 +18,9 @@ import android.widget.ProgressBar;
 import android.widget.TextView;
 
 /**
-*	版权: 董袭所有
+*	版权: Aller所有
 *
-*	作者 : 董袭
+*	作者 : Aller
 *
 *	E-mail : 1105894953@qq.com
 *
